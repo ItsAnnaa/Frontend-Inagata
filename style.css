@@ -1,0 +1,13 @@
+.home {
+  padding-top: 3rem;
+}
+.navbar-brand {
+  width: 7.375rem;
+  height: 2.375rem;
+  font-family: "SF Pro Rounded";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #1fa7ff;
+}
